@@ -42,7 +42,7 @@ export const CssPropsBlock: React.FC<CssPropsBlockProps> = (props) => {
   const customProperties = overrideCustomProperties || restProperties;
 
   const hasCustomProperties =
-    Object.values(customProperties).filter((cssprop) => !!cssprop.value)
+    Object.values(customProperties)
       .length > 0;
 
   if (!hasCustomProperties || disable) return null;
