@@ -1,6 +1,6 @@
 {
   "name": "@innofake/storybook-addon-cssprops",
-  "version": "2.3.5",
+  "version": "2.3.6",
   "description": "Interact with css custom properties dynamically in the Storybook UI",
   "keywords": [
     "storybook-addons",
