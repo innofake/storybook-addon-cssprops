@@ -13,7 +13,7 @@ export const NoCustomPropertiesWarning = () => (
   <NoCustomPropertiesWrapper>
     This story is not configured with CSS Custom Properties.&nbsp;
     <Link
-      href="https://github.com/ljcl/storybook-addon-cssprops/blob/main/README.md#adding-custom-properties"
+      href="https://github.com/innofake/storybook-addon-cssprops/blob/main/README.md#adding-custom-properties"
       target="_blank"
       cancel={false}
     >

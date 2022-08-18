@@ -10,7 +10,7 @@
     "@babel/core": "^7.18.5",
     "@babel/plugin-transform-react-jsx": "^7.17.12",
     "@babel/preset-env": "^7.18.2",
-    "@ljcl/storybook-addon-cssprops": "^2.3.2",
+    "@innofake/storybook-addon-cssprops": "^2.3.6",
     "@mdx-js/react": "^2.1.1",
     "@storybook/addon-actions": "^6.5.9",
     "@storybook/addon-docs": "^6.5.9",

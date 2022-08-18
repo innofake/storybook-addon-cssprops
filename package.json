@@ -1,8 +1,8 @@
 {
   "name": "root",
   "version": "0.1.0",
-  "homepage": "https://github.com/ljcl/storybook-addon-cssprops",
-  "repository": "https://github.com/ljcl/storybook-addon-cssprops.git",
+  "homepage": "https://github.com/innofake/storybook-addon-cssprops",
+  "repository": "https://github.com/innofake/storybook-addon-cssprops.git",
   "author": "Luke Clark <luke@lukeclark.com.au>",
   "license": "MIT",
   "private": true,
