@@ -13,6 +13,7 @@
 npm i -D @innofake/storybook-addon-cssprops
 ```
 
+
 Enable the addon in [`.storybook/main.js`](https://storybook.js.org/docs/react/configure/overview#configure-your-storybook-project):
 
 ```js
