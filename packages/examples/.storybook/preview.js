@@ -9,7 +9,7 @@ import {
   Stories,
   PRIMARY_STORY,
 } from "@storybook/addon-docs";
-import { CssPropsBlock } from "@ljcl/storybook-addon-cssprops";
+import { CssPropsBlock } from "@innofake/storybook-addon-cssprops";
 
 export const parameters = {
   docs: {

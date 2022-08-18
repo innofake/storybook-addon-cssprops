@@ -30,7 +30,7 @@ importers:
       '@babel/core': ^7.18.5
       '@babel/plugin-transform-react-jsx': ^7.17.12
       '@babel/preset-env': ^7.18.2
-      '@ljcl/storybook-addon-cssprops': ^2.3.2
+      '@innofake/storybook-addon-cssprops': ^2.3.2
       '@mdx-js/react': ^2.1.1
       '@storybook/addon-actions': ^6.5.9
       '@storybook/addon-docs': ^6.5.9
@@ -56,7 +56,7 @@ importers:
       '@babel/core': 7.18.5
       '@babel/plugin-transform-react-jsx': 7.17.12_@babel+core@7.18.5
       '@babel/preset-env': 7.18.2_@babel+core@7.18.5
-      '@ljcl/storybook-addon-cssprops': link:../storybook-addon-cssprops
+      '@innofake/storybook-addon-cssprops': link:../storybook-addon-cssprops
       '@mdx-js/react': 2.1.1_react@18.2.0
       '@storybook/addon-actions': 6.5.9_biqbaboplfbrettd7655fr4n2y
       '@storybook/addon-docs': 6.5.9_zf2b2elzeq5btj2ulveek2myv4
