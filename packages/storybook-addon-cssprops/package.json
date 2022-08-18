@@ -1,6 +1,6 @@
 {
-  "name": "@innofake/storybook-addon-cssprops",
-  "version": "2.3.6",
+  "name": "@ljcl/storybook-addon-cssprops",
+  "version": "2.3.5",
   "description": "Interact with css custom properties dynamically in the Storybook UI",
   "keywords": [
     "storybook-addons",
@@ -12,8 +12,8 @@
     "addon",
     "storybook"
   ],
-  "homepage": "https://github.com/innofake/storybook-addon-cssprops/tree/main/packages/storybook-addon-cssprops",
-  "repository": "https://github.com/innofake/storybook-addon-cssprops.git",
+  "homepage": "https://github.com/ljcl/storybook-addon-cssprops/tree/main/packages/storybook-addon-cssprops",
+  "repository": "https://github.com/ljcl/storybook-addon-cssprops.git",
   "author": "Luke Clark <luke@lukeclark.com.au>",
   "license": "MIT",
   "main": "dist/cjs/index.js",

@@ -10,7 +10,7 @@
 ## Installation
 
 ```sh
-npm i -D @innofake/storybook-addon-cssprops
+npm i -D @ljcl/storybook-addon-cssprops
 ```
 
 
@@ -18,14 +18,14 @@ Enable the addon in [`.storybook/main.js`](https://storybook.js.org/docs/react/c
 
 ```js
 module.exports = {
-  addons: ["@innofake/storybook-addon-cssprops"],
+  addons: ["@ljcl/storybook-addon-cssprops"],
 };
 ```
 
 To use it inside MDX, or when customising the docs page:
 
 ```js
-import { CssPropsBlock } from "@innofake/storybook-addon-cssprops";
+import { CssPropsBlock } from "@ljcl/storybook-addon-cssprops";
 ```
 
 ## Usage

@@ -1,4 +1,4 @@
-# @innofake/storybook-addon-cssprops
+# @ljcl/storybook-addon-cssprops
 
 ## 2.3.5
 
